@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+# domain and client id
+.env
 
 # testing
 /coverage
